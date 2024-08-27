@@ -1,2 +1,2 @@
 # react
-here are the basic react projects 
+this is for practice purpose . the projects i have built for my learning
