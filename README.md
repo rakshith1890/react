@@ -1,2 +1,2 @@
 # react
-practice
+here are the basic react projects 
